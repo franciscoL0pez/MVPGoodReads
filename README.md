@@ -27,3 +27,6 @@ Trabajo Práctico de Gestión de Desarrollo de Sistemas Informáticos - 2C2024
 - Correr el comando `npm install` en la carpeta raíz del proyecto para instalar las dependencias.
 - Correr el comando `npm run dev` para iniciar el servidor de desarrollo.
 - Abrir el navegador y acceder a `http://localhost:3000` para visualizar la aplicación.
+
+  ## Link a vercer para correr el proyecto 
+-  `https://fiubooks-frans-projects-4a9971f4.vercel.app/ `
